@@ -10,11 +10,11 @@ Once the course is completed, we will revise all topics, solve **programming cha
 
 ## 📑 Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction]
 
    * 🔗 **[Course Syllabus (SSC Computer Science – PBA)](https://www.fbise.edu.pk/ModelPaper/2025/Practical%20Based%20Assessment%20Composite/Final%20Computer%20Science%20PBA%20SSC%20Merged_.pdf)**
 
-2. [JavaScript Fundamentals](#javascript-fundamentals)
+2. [JavaScript Fundamentals]
 
    * Variables and Data Types
    * Input and Output Handling
@@ -27,7 +27,7 @@ Once the course is completed, we will revise all topics, solve **programming cha
    * Sorting Algorithms
    * Debugging Techniques
 
-3. [JavaScript Practical Programs](#javascript-practical-programs)
+3. [JavaScript Practical Programs]
 
    * Arithmetic Calculations
    * Area and Volume Calculations
@@ -39,7 +39,7 @@ Once the course is completed, we will revise all topics, solve **programming cha
    * Pattern Printing
    * Simple Problem-Solving Programs
 
-4. [HTML Fundamentals](#html-fundamentals)
+4. [HTML Fundamentals]
 
    * Structure of an HTML Document
    * Text Formatting Tags
@@ -49,7 +49,7 @@ Once the course is completed, we will revise all topics, solve **programming cha
    * Forms (Basic Introduction)
    * Semantic HTML
 
-5. [CSS Fundamentals](#css-fundamentals)
+5. [CSS Fundamentals]
 
    * Applying CSS to HTML
    * Text Styling and Fonts
@@ -59,7 +59,7 @@ Once the course is completed, we will revise all topics, solve **programming cha
    * Hover Effects
    * Responsive Basics
 
-6. [Web Development Projects](#web-development-projects)
+6. [Web Development Projects]
 
    * Personal Portfolio Website
    * Blog Page
@@ -69,14 +69,14 @@ Once the course is completed, we will revise all topics, solve **programming cha
    * Product Page
    * About Us Page
 
-7. [HTML, CSS & JavaScript Integration](#html-css--javascript-integration)
+7. [HTML, CSS & JavaScript Integration]
 
    * DOM Basics
    * Linking JavaScript with HTML
    * Styling Dynamic Content
    * Interactive Web Pages
 
-8. [Algorithms & Flowcharts](#algorithms--flowcharts)
+8. [Algorithms & Flowcharts]
 
    * Problem Decomposition
    * Flowcharts
@@ -85,7 +85,7 @@ Once the course is completed, we will revise all topics, solve **programming cha
    * Decision Trees
    * Concept Maps
 
-9. [Computer Hardware & Software](#computer-hardware--software)
+9. [Computer Hardware & Software]
 
     * Input, Output, Processing Devices
     * Storage and Communication Devices
@@ -93,7 +93,7 @@ Once the course is completed, we will revise all topics, solve **programming cha
     * Application Software
     * Operating Systems and Utilities
 
-10. [Entrepreneurship & Digital Skills](#entrepreneurship--digital-skills)
+10. [Entrepreneurship & Digital Skills]
 
     * Business Plan Development
     * Executive Summary Writing
@@ -102,15 +102,15 @@ Once the course is completed, we will revise all topics, solve **programming cha
     * Target Market Analysis
     * Business Idea Presentation
 
-11. [PBA Exam Preparation](#pba-exam-preparation)
-
+11. [PBA Exam Preparation]
+    
     * FBISE PBA Paper Pattern
     * Section A (Programming & Web Development)
     * Section B (Concepts, Algorithms & Business Plan)
     * Model Questions Practice
     * Common Mistakes to Avoid
 
-12. [Revision & Practice](#revision--practice)
+13. [Revision & Practice]
 
     * HTML, CSS & JavaScript Revision
     * Complete Practical Revision
